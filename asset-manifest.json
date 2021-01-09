@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//joyjinkyung.github.io/movie_app_2021/static/css/main.90f18643.chunk.css",
+    "main.js": "/https//joyjinkyung.github.io/movie_app_2021/static/js/main.1b1e23d3.chunk.js",
+    "main.js.map": "/https//joyjinkyung.github.io/movie_app_2021/static/js/main.1b1e23d3.chunk.js.map",
+    "runtime-main.js": "/https//joyjinkyung.github.io/movie_app_2021/static/js/runtime-main.fa3ee457.js",
+    "runtime-main.js.map": "/https//joyjinkyung.github.io/movie_app_2021/static/js/runtime-main.fa3ee457.js.map",
+    "static/js/2.938a3687.chunk.js": "/https//joyjinkyung.github.io/movie_app_2021/static/js/2.938a3687.chunk.js",
+    "static/js/2.938a3687.chunk.js.map": "/https//joyjinkyung.github.io/movie_app_2021/static/js/2.938a3687.chunk.js.map",
+    "index.html": "/https//joyjinkyung.github.io/movie_app_2021/index.html",
+    "static/css/main.90f18643.chunk.css.map": "/https//joyjinkyung.github.io/movie_app_2021/static/css/main.90f18643.chunk.css.map",
+    "static/js/2.938a3687.chunk.js.LICENSE.txt": "/https//joyjinkyung.github.io/movie_app_2021/static/js/2.938a3687.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa3ee457.js",
+    "static/js/2.938a3687.chunk.js",
+    "static/css/main.90f18643.chunk.css",
+    "static/js/main.1b1e23d3.chunk.js"
+  ]
+}
